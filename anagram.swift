@@ -13,6 +13,17 @@
 // anagrams('listen', 'silent') => true
 // anagrams('listen', 'potato') => false
 import Foundation
-func anagram(){
-    
+func DectionaryFromString(str:String)->[Character:Int]{
+    var holder:[Character:Int] = [:]
+    for i in str{
+        if holder.keys.contains(i){
+            holder[i]!+=1
+        }else{
+            holder[i] = 1
+        }
+    }
+    return holder
+}
+func anagram(str1:String,str2:String)->Bool{
+    DectionaryFromString(str: str1) ==  DectionaryFromString(str: str2)
 }
