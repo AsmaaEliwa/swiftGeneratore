@@ -10,12 +10,16 @@
 		7F8E80982BF3883400527EC6 /* anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = anagram.swift; sourceTree = "<group>"; };
 		7F8E80992BF38DB000527EC6 /* binarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = binarySearch.swift; sourceTree = "<group>"; };
 		7F8E809A2BF3958500527EC6 /* bubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bubbleSort.swift; sourceTree = "<group>"; };
+		7F8E809B2BF39B3B00527EC6 /* caserCipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = caserCipher.swift; sourceTree = "<group>"; };
+		7F8E809C2BF3AE6600527EC6 /* digitalRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = digitalRoot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		7F8E80912BF3881E00527EC6 = {
 			isa = PBXGroup;
 			children = (
+				7F8E809C2BF3AE6600527EC6 /* digitalRoot.swift */,
+				7F8E809B2BF39B3B00527EC6 /* caserCipher.swift */,
 				7F8E809A2BF3958500527EC6 /* bubbleSort.swift */,
 				7F8E80992BF38DB000527EC6 /* binarySearch.swift */,
 				7F8E80982BF3883400527EC6 /* anagram.swift */,
