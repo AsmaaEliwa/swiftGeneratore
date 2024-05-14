@@ -27,3 +27,5 @@ func DectionaryFromString(str:String)->[Character:Int]{
 func anagram(str1:String,str2:String)->Bool{
     DectionaryFromString(str: str1) ==  DectionaryFromString(str: str2)
 }
+//print(anagram(str1: "listen", str2: "silent"))
+//print(anagram(str1: "listen", str2: "potato"))
