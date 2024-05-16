@@ -21,6 +21,7 @@
 		7F0A00A52BF66FE0005A276A /* symmetricSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = symmetricSubstrings.swift; sourceTree = "<group>"; };
 		7F0A00A62BF67239005A276A /* capitalizeWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capitalizeWord.swift; sourceTree = "<group>"; };
 		7F0A00A72BF6766C005A276A /* transpose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transpose.swift; sourceTree = "<group>"; };
+		7F0A00A82BF679CB005A276A /* twoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoSum.swift; sourceTree = "<group>"; };
 		7F8E80982BF3883400527EC6 /* anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = anagram.swift; sourceTree = "<group>"; };
 		7F8E80992BF38DB000527EC6 /* binarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = binarySearch.swift; sourceTree = "<group>"; };
 		7F8E809A2BF3958500527EC6 /* bubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bubbleSort.swift; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				7F0A00A72BF6766C005A276A /* transpose.swift */,
+				7F0A00A82BF679CB005A276A /* twoSum.swift */,
 				7F0A00A62BF67239005A276A /* capitalizeWord.swift */,
 				7F0A00A52BF66FE0005A276A /* symmetricSubstrings.swift */,
 				7F0A00A42BF66BB6005A276A /* strInKey.swift */,
